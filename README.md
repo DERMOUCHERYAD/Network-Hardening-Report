@@ -26,6 +26,6 @@ By implementing these network hardening techniques, the organization will minimi
 
 ## How to Use This Repository
 - The **security risk assessment report.pdf** file contains the full assessment and recommendations.
-- - The **Network Hardening tools Sheet.pdf** file contains some network hardening tools and methods to use .
+- The **Network Hardening tools Sheet.pdf** file contains some network hardening tools and methods to use .
  
 
